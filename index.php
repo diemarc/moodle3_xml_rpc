@@ -27,6 +27,6 @@ print_r($user_info);
 
 //3- inscribimos el usuario(5) a un curso(2)
 $user_course = $moodle->enrolUserCourseMoodle(6, 2);
-// 4- recibimos todos los cursos
 
+// 4- recibimos todos los cursos
 $courses = $moodle->getAllCourses();
