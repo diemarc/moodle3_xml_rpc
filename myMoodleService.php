@@ -63,7 +63,7 @@ class MyMoodleService
      * -------------------------------------------------------------------------
      * 0.1- Setea los parametros de acuerdo al entorno
      * -------------------------------------------------------------------------
-     * (local = 172.26.0.198:83; remote = http://www.aulavirtualipr.com)
+     * (local = ; remote = 
      * Utiliza cosntantes definidas en 
      * /../core/app/external/moodle/config/moodle_config.inc
      * -------------------------------------------------------------------------
