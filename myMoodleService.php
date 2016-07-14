@@ -11,7 +11,7 @@ require (filter_input('INPUT_SERVER', '/curl.inc'));
  * @author diEmarC <diemarc.os@gmail.com>
  * @license http://http://www.gnu.org/licenses/gpl-3.0.en.html
  * @version 1.0
- * 
+ *  testing
  * _____________________________________________________________________________
  */
 class MyMoodleService
@@ -65,7 +65,7 @@ class MyMoodleService
      * -------------------------------------------------------------------------
      * (local = ; remote = 
      * Utiliza cosntantes definidas en 
-     * /../core/app/external/moodle/config/moodle_config.inc
+     * /config/moodle_config.inc
      * -------------------------------------------------------------------------
      * @param type $env
      */
